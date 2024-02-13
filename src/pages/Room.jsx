@@ -131,7 +131,7 @@ const Room = () => {
                 </p>
 
                 {message.$permissions.includes(
-                  `delete(\"user:${user.$id}\")`
+                  `delete("user:${user.$id}")`
                 ) && (
                   <Trash2
                     className="delete--btn"

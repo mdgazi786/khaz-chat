@@ -1,14 +1,14 @@
 /* Global settings */
 
 :root {
-  --mainBgColor: rgba(20, 20, 31, 11);
-  --secondaryBgColor: rgba(27, 27, 39, 1);
-  --borderColor1: rgba(40, 41, 57, 1);
-  --borderColor2: rgba(79, 86, 105, 1);
-  --textColorMain: #fff;
-  --textColorSecondary: rgb(226, 227, 232);
-  --themeColorMain: rgba(219, 26, 90, 1);
-  --themeColorSecondary: #386fd2;
+  --mainBgColor: #f5f5f5; /* Light Gray */
+  --secondaryBgColor: #ffffff; /* White */
+  --borderColor1: #ddd; /* Light Gray */
+  --borderColor2: #bbb; /* Light Gray */
+  --textColorMain: #333; /* Dark Gray */
+  --textColorSecondary: #666; /* Gray */
+  --themeColorMain: #007bff; /* Blue */
+  --themeColorSecondary: #386fd2; /* Light Blue */
 }
 
 * {

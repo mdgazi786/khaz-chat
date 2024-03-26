@@ -2,11 +2,11 @@
 
 A chat app with real-time capabilities that utilizes Appwrite on the backend. 
 
-> Tutorial Link Will be added here when posted.
-
 <img src="images/demo.png"/>
 
 ### Getting Started
+
+#### install node.js in your pc
 
 After cloning the repo ensure you complete the necessary installations
 
